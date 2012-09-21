@@ -909,3 +909,11 @@ body {
 	display: none;
 }
 
+/*********************************************
+ * ADDED 
+ *********************************************/
+
+ #transparent {
+ 	border: 0px solid #FFF;
+ 	margin-top: 0px;
+ }
