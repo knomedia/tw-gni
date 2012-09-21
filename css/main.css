@@ -917,3 +917,12 @@ body {
  	border: 0px solid #FFF;
  	margin-top: 0px;
  }
+
+ .reveal small.subhead {
+ 	margin-top: 0px;
+ 	margin-bottom: 10px;
+ 	display: block;
+ }
+ .reveal h3.with-sub {
+ 	margin-bottom: 3px;
+ }
